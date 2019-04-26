@@ -1,5 +1,4 @@
-# Introducción a Python aplicado a Finanzas Cuantitativas.
-
+# Introducción a Python Aplicado a Finanzas Cuantitativas.
 ## Syllabus
 - Día 1: Fundamentos de programación.
     - Instalación y creación de virtual environments.
@@ -17,7 +16,7 @@
 - Día 3: Visualización y tratamiento de datos
     - Visualización de datos y gráficos con matplotlib y pandas.
     - Carga y almacenamiento de datos.
-    - Limpieza, preparación y homogeneización.
+    - Limpieza, preparación y homogenización.
     - Tratamiento de series temporales.
 
 
