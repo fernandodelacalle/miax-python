@@ -12,3 +12,7 @@ def lista_uniforme(n):
         n_al = random.uniform(0, 10)
         lista_al.append(n_al)
     return lista_al
+
+
+def suma_elementos(x, y):
+    return x+y
