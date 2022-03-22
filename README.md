@@ -1,7 +1,6 @@
 # Introducción a Python Aplicado a Finanzas Cuantitativas.
 ## Syllabus
 
-## Syllabus
 ### Módulo 1: Fundamentos de programación.
 * [1.0.](module_1/1_00.ipynb) Instalación.
 * [1.1.](module_1/1_01.ipynb) Jupyter Notebooks.
@@ -43,32 +42,23 @@
 ### Módulo 6: Aplicaciones específicas en mercados financieros.
 * [6.1.](module_6/6_01.ipynb) Obtención de datos financieros.
 * [6.2.](module_6/6_02.ipynb) Simulación para medición de riesgos (VaR).
-* [6.3.](module_6/6_03.ipynb) Optimización de carteras I.
-* [6.4.](module_6/6_04.ipynb) Optimización de carteras II (opcional).
-* [6.5.](module_6/6_05.ipynb) Valoración de opciones financieras (opcional).
+* [6.3.](module_6/6_03.ipynb) Optimización de carteras.
 
 
 ### Módulo 7: Python avanzado.
 * [7.1.](module_7/7_01.ipynb) Procesamiento en paralelo con multiprocessing. Itertools.
 * [7.2.](module_7/7_02.ipynb) Introducción a la programación orientada a objetos.
-* [7.3.](module_7/7_03.ipynb) Más sobre la programación orientada a objetos.
-* [7.4.](module_7/7_04.ipynb) Generadores.
-* [7.5.](module_7/7_05.ipynb) Decoradores.
-* [7.6.](module_7/7_06.ipynb) Más sobre control de flujo.
-* [7.7.](module_7/7_07.ipynb) Más sobre funciones Lambda y programación funcional.
-* [7.8.](module_7/pytest/7_08.ipynb) Test unitarios con Pytest.
-* [7.9.](module_7/logging/7_09.ipynb) Modulo de Logging.
+* [7.3.](module_7/7_03.ipynb) Generadores.
+* [7.4.](module_7/7_04.ipynb) Decoradores.
+* [7.5.](module_7/7_05.ipynb) Operador ternario.
+* [7.6.](module_7/7_06.ipynb) Funciones Lambda y programación funcional.
 
 
 ### Módulo 8: Temas avanzados.
 * [8.1.](module_8/8_01.ipynb) Editores y flujo de trabajo.
 * [8.2.](module_8/8_02.ipynb) Web Scraping I.
 * [8.3.](module_8/8_03.ipynb) Web Scraping II.
-* [8.4.](module_8/8_04.ipynb) Análisis de rendimiento y Vectorización.
-* [8.5.](module_8/8_05.ipynb) Introducción a MongoDB.
-* [8.6.](module_8/8_06.ipynb) ¿Qué es un API?.
-* [8.7.](module_8/8_07.ipynb) Otras librerias y documentos.
-
+* [8.4.](module_8/8_04.ipynb) Interactividad: ipywidgets.
 
 ### Soluciones Ejercicos.
 * [1.Sol](ejercicios_soluciones/soluciones_modulo_1.ipynb) Soluciones Modulo 1.
@@ -78,10 +68,8 @@
 * [5.Sol](ejercicios_soluciones/soluciones_modulo_5.ipynb) Soluciones Modulo 5.
 * [6.1.Sol](ejercicios_soluciones/6_01_Solution.ipynb) Obtención de datos financieros  (Solución).
 * [6.2.Sol](ejercicios_soluciones/6_02_Solution.ipynb) Simulación para medición de riesgos (VaR) (Solución).
-* [6.3.Sol](ejercicios_soluciones/6_03_Solution.ipynb) Optimización de carteras I (Solución).
-* [6.5.Sol](ejercicios_soluciones/6_05_Solution.ipynb)  Valoración de opciones financieras (Solución).
+* [6.3.Sol](ejercicios_soluciones/6_03_Solution.ipynb) Optimización de carteras (Solución).
 * [7.Sol](ejercicios_soluciones/soluciones_modulo_7.ipynb) Soluciones Modulo 7.
-* [7.Sol](ejercicios_soluciones/soluciones_modulo_8.ipynb) Soluciones Modulo 8.
+* [8.Sol](ejercicios_soluciones/soluciones_modulo_8.ipynb) Soluciones Modulo 8.
 
 Práctica: Análisis de series temporales bursátiles.
-
