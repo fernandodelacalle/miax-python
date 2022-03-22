@@ -1,6 +1,6 @@
 # Introducción a Python Aplicado a Finanzas Cuantitativas.
-## Syllabus
 
+## Syllabus
 ### Módulo 1: Fundamentos de programación.
 * [1.0.](module_1/1_00.ipynb) Instalación.
 * [1.1.](module_1/1_01.ipynb) Jupyter Notebooks.
@@ -59,6 +59,8 @@
 * [8.2.](module_8/8_02.ipynb) Web Scraping I.
 * [8.3.](module_8/8_03.ipynb) Web Scraping II.
 * [8.4.](module_8/8_04.ipynb) Interactividad: ipywidgets.
+
+
 
 ### Soluciones Ejercicos.
 * [1.Sol](ejercicios_soluciones/soluciones_modulo_1.ipynb) Soluciones Modulo 1.
