@@ -1,0 +1,4 @@
+!pip install xlrd
+!pip install beautifulsoup4
+!pip install requests
+html5lib
